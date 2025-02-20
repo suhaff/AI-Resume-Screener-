@@ -1,0 +1,4 @@
+John Doe
+Email: johndoe@email.com
+Skills: C++, Machine Learning, TensorFlow, SQL, Data Science
+Experience: 3 years in AI development
